@@ -8,7 +8,7 @@ TroykaDHT11
 
 Скачайте последний релиз библиотеки:
 
-<a class="btn btn-sm btn-primary" href="https://github.com/amperka/TroykaDHT11">Скачать библиотеку TroykaDHT11 </a>
+<a class="btn btn-sm btn-primary" href="https://github.com/amperka/TroykaDHT11/releases/download/1.0/TroykaDHT11.zip">Скачать библиотеку TroykaDHT11 </a>
 
 В Arduino IDE выберите пункт меню «Скетч» → «Импортировать библиотеку» →
 «Добавить библиотеку…». В появившемся окне выберите скачаный архив с
